@@ -46,7 +46,7 @@ Communication between clients and servers often relies on established protocols.
 
 •	Each client and the server has a socket for sending and receiving data.
 
-### FUNCTIONS :
+### FUNCTIONS:
 
 •	Socket programming involves functions for creating, binding, listening, accepting connections, and sending/receiving data through sockets.
 
