@@ -125,9 +125,9 @@ SERVER
 
 ## OUTPUT:
 
-   CLIENT
+CLIENT
 
-   ![Screenshot 2024-05-01 135521](https://github.com/KAVIYASHANMUGAM19/ChatStudy/assets/155141139/fb4af035-8020-4075-9e93-6404e494d7cb)
+ ![Screenshot 2024-05-01 135521](https://github.com/KAVIYASHANMUGAM19/ChatStudy/assets/155141139/fb4af035-8020-4075-9e93-6404e494d7cb)
 
 
 SERVER
